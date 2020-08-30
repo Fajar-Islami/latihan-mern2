@@ -1,0 +1,32 @@
+BackEnd didalam react REST-API
+
+cd C:\Users\Fajar Islami\Documents\Belajar ReactJS\react REST-API
+npm init
+npm add express body-parser dotenv mongoose
+npm install -g nodemon --save
+
+menjalankan server
+nodemon server.js
+
+jalankan mongodb
+net start mongodb
+
+stop mongodb
+net stop mongodb
+
+video 2 (front end)
+tambah ==> 
+npm add bootstrap react-bootstrap
+npm add react-router-dom ==> untuk root
+
+di index.js
+import 'bootstrap/dist/css/bootstrap.min.css'
+
+di App.js
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+
+components/layout supaya dikasih container
+
+instal axios ==> npm add axios
+
+
