@@ -29,4 +29,4 @@ components/layout supaya dikasih container
 
 instal axios ==> npm add axios
 
-
+install npm install cors -> di server.js
